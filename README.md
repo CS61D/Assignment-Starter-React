@@ -1,6 +1,6 @@
-# Assignment Solutions React
+# Assignment Starter React
 
-Deployed live at [https://react.education.codifyberkeley.org/](https://react.education.codifyberkeley.org/)
+[Assignment spec](https://education.codifyberkeley.org/docs/Assignments/react-todo) on the 61D website.
 
 ## Setup
 
@@ -13,7 +13,3 @@ bun install
 ```bash
 bun dev
 ```
-
-# Todo
-1. Init biome
-2. Add save + load from local storage
